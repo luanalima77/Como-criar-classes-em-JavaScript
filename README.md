@@ -82,4 +82,7 @@ node main.js
 ```
 <br>
 
+# 🎥 Quer ver a minha explicação desse conteúdo em vídeo?
+### <a href = "https://youtube.com/shorts/yUYXTmiEhpw?si=FGqg3kJBC-tDLjQF">Clique aqui!</a>
+
 ### ✍️ Projeto com fins educacionais
